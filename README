@@ -1,0 +1,61 @@
+🐍 Road Safety Snakes & Ladders
+
+An educational Snakes & Ladders game built in Python using Kivy, designed to promote road safety awareness through gameplay.
+
+This project was originally developed during Class 11 as part of a school assignment, using a fixed, non-uniform road safety board image, which required manual pixel-based coordinate mapping for player movement.
+
+🎯 Purpose
+
+The goal of this game is to make learning traffic rules and road safety concepts engaging by integrating them into a familiar board game format.
+
+Snakes represent traffic violations
+
+Ladders represent good road safety practices
+
+Each event displays an educational message
+
+🕹️ Features
+
+Two-player gameplay
+
+Dice roll with sound effects
+
+Snakes & ladders with contextual messages
+
+Keyboard controls (Space to roll dice, Esc to exit)
+
+Animated player movement
+
+Menu screen with About section
+
+Compiled Windows executable (EXE)
+
+🧠 Technical Highlights
+
+Built using Python + Kivy
+
+Manual mapping of player positions to a non-uniform board image
+
+Pixel-based coordinate calculations adapted to screen scaling
+
+Sound effects and animations for improved user experience
+
+Asset handling compatible with packaged executables
+
+🖥️ Requirements
+
+Windows OS (7 or later)
+
+No Python installation required if using the EXE
+(Python 3.x + Kivy required only for running from source)
+
+📦 Project Status
+
+This project is complete and archived.
+It is preserved as an example of an early applied programming project.
+
+👤 Developer
+
+Ishant
+Student Project (Class 11)
+India

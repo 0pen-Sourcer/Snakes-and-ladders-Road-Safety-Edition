@@ -1,0 +1,19 @@
+# Build and distribution artifacts
+/build/
+/dist/
+
+# Executables and installers
+*.exe
+*.pkg
+
+# Python artifacts
+*.pyc
+__pycache__/
+.venv/
+
+# Large images (don't commit big assets)
+codeandstuff/Images/Board_upscaled.png
+
+# Misc
+*.log
+*.spec
